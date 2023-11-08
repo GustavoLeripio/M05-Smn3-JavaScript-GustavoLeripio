@@ -1,0 +1,17 @@
+1.O que é NVM?
+NVM (Node Version Manager) é um script bash usado para gerenciar várias versões do Node.js em um único sistema. Ele permite que os desenvolvedores alterem facilmente entre versões do Node.js, ajudando a evitar conflitos entre diferentes projetos que possam exigir versões diferentes do Node.js.
+
+2.O que é NPM e para que o utilizamos?
+NPM (Node Package Manager) é um gerenciador de pacotes para a linguagem de programação JavaScript. É usado para instalar, compartilhar e distribuir código JavaScript, permitindo aos desenvolvedores reutilizar o código existente de forma eficiente. Ele é amplamente utilizado no desenvolvimento de aplicativos web e de servidor, ajudando na gestão de dependências e na integração de módulos úteis.
+
+3.O que o comando "npm install prompt-sync" realiza?
+O comando "npm install prompt-sync" instala o pacote "prompt-sync" do NPM no projeto atual. Esse pacote permite a captura de entrada do usuário de forma síncrona no Node.js, simplificando a interação com o usuário em aplicativos de linha de comando.
+
+4.Em qual diretório devemos instalar uma biblioteca JavaScript?
+Uma biblioteca JavaScript deve ser instalada no diretório do projeto onde ela será utilizada. Normalmente, o local mais apropriado seria o diretório raiz do projeto ou um subdiretório específico para armazenar dependências de bibliotecas.
+
+5.Existe diferença entre o código que cria e o que faz uso de uma variável em Python? Se sim, explique essa diferença.
+Sim, existe diferença. O código que cria uma variável em Python envolve a declaração da variável com um nome específico e opcionalmente a atribuição de um valor a essa variável. Por outro lado, o código que faz uso de uma variável geralmente envolve a referência ao nome dessa variável para realizar operações ou manipulações nos dados armazenados nela.
+
+6.Existe diferença entre o código que cria e o que faz uso de uma variável em JavaScript? Se sim, explique essa diferença.
+Sim, há uma diferença. O código que cria uma variável em JavaScript envolve a declaração da variável utilizando palavras-chave como "var", "let" ou "const", seguido pelo nome da variável e, opcionalmente, pela atribuição de um valor. Já o código que faz uso de uma variável em JavaScript envolve a referência ao nome da variável para acessar ou manipular o valor armazenado nela, como em operações matemáticas, manipulação de strings ou interações com o DOM.

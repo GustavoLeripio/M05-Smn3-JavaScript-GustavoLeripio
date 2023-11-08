@@ -1,0 +1,13 @@
+Const:A declaração const é usada para criar uma variável cujo valor não pode ser alterado após a sua atribuição inicial
+ela deve ser inicializada com um valor na declaração 
+não permite a reatribuição do valor da variável geralmente, é utilizada para declarar variáveis ​​que não serão reatribuídas, como constantes ou valores imutáveis
+
+let:
+A declaração let é usada para criar uma variável que pode ser reatribuída com um novo valor.
+Tem um escopo de bloco, o que significa que é acessível apenas dentro do bloco em que foi declarada.
+Pode ser atualizada, mas não redeclarada no mesmo escopo.
+
+var:
+a declaração var é a maneira mais antiga de declarar variáveis em JavaScript.
+ela tem escopo de função ou escopo global, o que significa que a variável declarada com var é acessível em toda a função na qual foi declarada.
+pode ser redeclarada e atualizada em qualquer lugar dentro da função em que foi declarada.

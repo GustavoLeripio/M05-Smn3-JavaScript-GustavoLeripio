@@ -1,0 +1,19 @@
+var x = 5;
+function fun() {
+    var x = 6;
+    console.log(x);
+}
+console.log(x);
+
+6 e 5
+
+let x = 5;
+function fun() {
+    let x = 6;
+    console.log(x);
+}
+console.log(x);
+
+6 e 5 
+
+Este codigo ira imprimir o numero 5 porem se chamar a funcao fun ambos iram imprimir 5 e 6

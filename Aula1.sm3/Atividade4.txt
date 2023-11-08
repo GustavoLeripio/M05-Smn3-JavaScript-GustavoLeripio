@@ -1,0 +1,1 @@
+você não pode reatribuir a constante a outro valor ou referência, mas pode modificar o valor interno de um objeto ou de uma lista contida em uma constante.
